@@ -58,10 +58,10 @@
       "removeDuplicateSubjects": false,
       "removeSubjectsWithPriorOutcome": true,
       "priorOutcomeLookback": 99999,
-      "minDaysAtRisk": 0,
-      "riskWindowStart": 0,
+      "minDaysAtRisk": 1,
+      "riskWindowStart": 1,
       "startAnchor": "cohort start",
-      "riskWindowEnd": 30,
+      "riskWindowEnd": 365,
       "endAnchor": "cohort start",
       "censorAtNewRiskWindow": false,
       "attr_class": "args"
@@ -73,9 +73,6 @@
     "matchOnPsAndCovariates": false,
     "stratifyByPs": false,
     "stratifyByPsAndCovariates": false,
-    "createDrs": false,
-    "matchOnDrs": false,
-    "stratifyByDrs": false,
     "fitOutcomeModel": true,
     "fitOutcomeModelArgs": {
       "modelType": "logistic",
@@ -180,10 +177,10 @@
       "removeDuplicateSubjects": false,
       "removeSubjectsWithPriorOutcome": true,
       "priorOutcomeLookback": 99999,
-      "minDaysAtRisk": 0,
-      "riskWindowStart": 0,
+      "minDaysAtRisk": 1,
+      "riskWindowStart": 1,
       "startAnchor": "cohort start",
-      "riskWindowEnd": 30,
+      "riskWindowEnd": 365,
       "endAnchor": "cohort start",
       "censorAtNewRiskWindow": false,
       "attr_class": "args"
@@ -241,9 +238,6 @@
       "attr_class": "args"
     },
     "stratifyByPsAndCovariates": false,
-    "createDrs": false,
-    "matchOnDrs": false,
-    "stratifyByDrs": false,
     "fitOutcomeModel": true,
     "fitOutcomeModelArgs": {
       "modelType": "logistic",

@@ -1,3 +1,6 @@
 targetId,comparatorId,outcomeIds,excludedCovariateConceptIds,includedCovariateConceptIds
-227,228,203;143;5,,
-229,230,203;143;5,,
+100,101,5,,
+200,201,5,,
+300,301,5,,
+400,401,5,,
+500,501,5,,
