@@ -1,0 +1,8 @@
+atlasId,atlasName,cohortId,name
+227,Persons hospitalized with COVID-19 and with uncomplicated hypertension,227,Persons_hospitalized_with_COVID19_and_with_uncomplicated_hypertension
+228,Persons hospitalized with COVID-19 and without uncomplicated hypertension,228,Persons_hospitalized_with_COVID19_and_without_uncomplicated_hypertension
+203,[COVID ID27 V1] Hospitalizations with pneumonia or ARDS or sepsis or AKI requiring intensive services or resulting in death in 30d,203,COVID_ID27_V1_Hospitalizations_with_pneumonia_or_ARDS_or_sepsis_or_AKI_requiring_intensive_services_or_resulting_in_death_in_30d
+143,[LEGEND-HTN]Total cardiovascular disease events,143,LEGENDHTNTotal_cardiovascular_disease_events
+5,All-cause mortality,5,Allcause_mortality
+229,Persons hospitalized with COVID-19 and with hypertension,229,Persons_hospitalized_with_COVID19_and_with_hypertension
+230,Persons hospitalized with COVID-19 and without hypertension,230,Persons_hospitalized_with_COVID19_and_without_hypertension
